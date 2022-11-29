@@ -1,0 +1,29 @@
+{
+  "name": "cypress-ui-ebac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabriellyPompeo/cypress-ui-ebac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabriellyPompeo/cypress-ui-ebac/issues"
+  },
+  "homepage": "https://github.com/GabriellyPompeo/cypress-ui-ebac#readme",
+  "devDependencies": {
+    "cypress": "^11.0.1"
+  },
+  "dependencies": {
+    "chance": "^1.1.9",
+    "faker": "^5.5.3",
+    "faker-br": "^0.4.1"
+  }
+}
